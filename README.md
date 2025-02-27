@@ -34,6 +34,10 @@ const athul = {
 };
 ```
 
+## 📈 Contribution Graph
+[![Athul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Athulsn10&bg_color=0d1117&color=7F3ACE&line=7F3ACE&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 ## 🛠️ Tech Stack
 <div align="center">
   
@@ -59,9 +63,6 @@ const athul = {
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Athulsn10&layout=compact&hide_border=true&title_color=7F3ACE&text_color=FFFFFF&bg_color=0d1117" alt="Top Languages" />
 </div>
-
-## 📈 Contribution Graph
-[![Athul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Athulsn10&bg_color=0d1117&color=7F3ACE&line=7F3ACE&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🏆 GitHub Trophies
 <div align="center">
