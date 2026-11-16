@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="190" viewBox="0 0 490 190">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#1a1430"/><stop offset="100%" stop-color="#0d1117"/></linearGradient>
+  <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#7F3ACE"/><stop offset="100%" stop-color="#C084FC" stop-opacity="0"/></linearGradient></defs>
+  <rect x="0.5" y="0.5" width="489" height="189" rx="14" fill="url(#g)" stroke="#30363d"/>
+  <rect x="1" y="1" width="294" height="3" rx="1.5" fill="url(#edge)"/>
+  <circle cx="34" cy="42" r="6" fill="#e34c26"/>
+  <text x="50" y="49" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="700" fill="#ffffff">Teachify</text>
+  
+  <text x="28" y="86" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#8b949e">Notes platform for BSc CS students</text><text x="28" y="108" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#8b949e">under Calicut University.</text>
+  <rect x="28" y="138" width="71" height="26" rx="13" fill="#7F3ACE" fill-opacity="0.16" stroke="#7F3ACE" stroke-opacity="0.45"/><text x="64" y="155.5" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" font-weight="600" fill="#C084FC">Angular</text><rect x="107.19999999999999" y="138" width="48" height="26" rx="13" fill="#7F3ACE" fill-opacity="0.16" stroke="#7F3ACE" stroke-opacity="0.45"/><text x="131" y="155.5" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" font-weight="600" fill="#C084FC">Node</text><rect x="163.6" y="138" width="71" height="26" rx="13" fill="#7F3ACE" fill-opacity="0.16" stroke="#7F3ACE" stroke-opacity="0.45"/><text x="199" y="155.5" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" font-weight="600" fill="#C084FC">MongoDB</text>
+  <text x="462" y="166" text-anchor="end" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#C084FC">View repo →</text>
+</svg>
