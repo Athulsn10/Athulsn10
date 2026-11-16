@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="Athul S Nair · Software Engineer" width="100%" />
+  <img src="./banner.svg" alt="Athul S Nair · Software Engineer" width="100%" />
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 ## ⚡ About me
 
 <p align="center">
-  <img src="./assets/terminal.svg" alt="whoami: Software Engineer at White Rabbit Group. Stack: React, Next.js, Vue, Node, Express, MongoDB. CMS: WordPress, Shopify, HubSpot, Drupal, Craft CMS." width="100%" />
+  <img src="./terminal.svg" alt="whoami: Software Engineer at White Rabbit Group. Stack: React, Next.js, Vue, Node, Express, MongoDB. CMS: WordPress, Shopify, HubSpot, Drupal, Craft CMS." width="100%" />
 </p>
 
 > 💼 Most of my day-to-day work lives in private client repos. What's public here are side projects and experiments.
@@ -24,10 +24,14 @@
 ## 🚀 Featured projects
 
 <p align="center">
-  <a href="https://portfolio-athul.vercel.app/"><img src="./assets/project-portfolio.svg" width="49%" alt="Portfolio" /></a>
-  <a href="https://github.com/Athulsn10/Chatify-MERN-frontend"><img src="./assets/project-chatify.svg" width="49%" alt="Chatify" /></a>
-  <a href="https://github.com/Athulsn10/teachify-frontend-MEAN-Stack"><img src="./assets/project-teachify.svg" width="49%" alt="Teachify" /></a>
-  <a href="https://github.com/Athulsn10/enigma-doc-app-firebase"><img src="./assets/project-enigma.svg" width="49%" alt="Enigma" /></a>
+  <a href="https://github.com/Athulsn10/glance-kit"><img src="./project-glance-kit.svg" width="98%" alt="Glance Kit: minimal Android home screen widgets" /></a>
+</p>
+
+<p align="center">
+  <a href="https://portfolio-athul.vercel.app/"><img src="./project-portfolio.svg" width="49%" alt="Portfolio" /></a>
+  <a href="https://github.com/Athulsn10/Chatify-MERN-frontend"><img src="./project-chatify.svg" width="49%" alt="Chatify" /></a>
+  <a href="https://github.com/Athulsn10/teachify-frontend-MEAN-Stack"><img src="./project-teachify.svg" width="49%" alt="Teachify" /></a>
+  <a href="https://github.com/Athulsn10/enigma-doc-app-firebase"><img src="./project-enigma.svg" width="49%" alt="Enigma" /></a>
 </p>
 
 <br/>
@@ -44,6 +48,10 @@
     <td><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,php,mysql&theme=dark" alt="Backend" /></td>
   </tr>
   <tr>
+    <td align="center"><b>Mobile</b></td>
+    <td><img src="https://skillicons.dev/icons?i=kotlin,androidstudio,gradle&theme=dark" alt="Mobile" /></td>
+  </tr>
+  <tr>
     <td align="center"><b>CMS</b></td>
     <td>
       <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
@@ -55,7 +63,7 @@
   </tr>
   <tr>
     <td align="center"><b>Tools</b></td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,postman&theme=dark" alt="Tools" /></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,figma,vercel,postman&theme=dark" alt="Tools" /></td>
   </tr>
 </table>
 
